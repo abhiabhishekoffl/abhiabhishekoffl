@@ -1,9 +1,9 @@
 <h1 align="center"> Hii, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Suraj Kumar Giri</h1>
+         width="45" /> I'm Abhishek Kumar </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgirioffl&label=Views&color=blue&style=plastic&style=for-the-badge" alt="surajgirioffl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiabhishekoffl&label=Views&color=blue&style=plastic&style=for-the-badge" alt="abhiabhishekoffl" /> </p>
 
 # 💫 About Me
 
@@ -14,10 +14,10 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajgirioffl)
-[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/ueCeIiuYjHSn)
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surajgirioffl)
-[![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajgirioffl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiabhishekoffl/)
+[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/rX9y7jRcHxmr)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhiabhishek_offl)
+[![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiabhishekoffl@gmail.com)
 
 ## 💻 Tech Stack
 
