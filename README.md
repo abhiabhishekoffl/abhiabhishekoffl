@@ -8,8 +8,8 @@
 # 💫 About Me
 
 - 😄 Pronouns: He/His
-- 🔭 I'm currently working on a Fullstack Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about Python, Web Development or any tech-related stuff.
+- 🔭 I'm currently working on AWS and Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about AWS, Web Development or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
